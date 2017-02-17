@@ -3,9 +3,10 @@ html, body {
   margin: 0;
   padding: 0;
   background: #faf8ef;
-  color: #776e65;
+  color: BLACK;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
-  font-size: 18px; }
+  font-size: 18px;
+  background-color: #FFFF00;}
 
 body {
   margin: 80px 0; }
@@ -13,7 +14,9 @@ body {
 .heading:after {
   content: "";
   display: block;
-  clear: both; }
+  clear: both;
+  height: 30px;
+  width: 500px; }
 
 h1.title {
   font-size: 80px;
@@ -53,14 +56,14 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #bbada0;
+  background: #FFFDE7;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
-  color: white;
+  color: #FFAB00;
   margin-top: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
@@ -538,11 +541,11 @@ hr {
 
 .restart-button {
   display: inline-block;
-  background: #8f7a66;
+  background: #f9f6f2;
   border-radius: 3px;
   padding: 0 20px;
   text-decoration: none;
-  color: #f9f6f2;
+  color: #FFAB00;
   height: 40px;
   line-height: 42px;
   display: block;
@@ -574,7 +577,9 @@ hr {
     min-width: 40px; }
 
   .heading {
-    margin-bottom: 10px; }
+    margin-bottom: 10px;
+    height: 30px;
+    width: 500px; }
 
   .game-intro {
     width: 55%;
