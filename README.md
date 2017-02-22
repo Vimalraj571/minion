@@ -3,7 +3,7 @@ Source Code BY gabrielecirulli/2048 (Thanks DUDE)!
 
 Through That created My version
 
-# Here you can play the game
+# Here you can play the game as minion versoin
 
 https://vimalraj571.github.io/minion2048.github.io/
 
@@ -27,10 +27,13 @@ Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://gith
 ### Screenshot
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/1175750/8614312/280e5dc2-26f1-11e5-9f1f-5891c3ca8b26.png" alt="Screenshot"/>
+  <img src="https://github.com/VimalRaj571/minion2048.github.io/blob/master/meta/screens.JPG" alt="Screenshot"/>
 </p>
 
-That screenshot is fake, by the way. I never reached 2048 :smile:
+<p align="center">
+  <img src="https://github.com/VimalRaj571/minion2048.github.io/blob/master/meta/Minion.JPG" alt="Screenshot"/>
+</p>
+:smile:
 
 ## Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
@@ -41,4 +44,6 @@ You can find the same information in the [contributing guide.](https://github.co
 2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
 
 ## Donations
-I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game and feel like buying me coffee, you can donate at my BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. Thank you very much!
+He made this in his spare time, and it's hosted on GitHub (which means he don't have any hosting costs), but if you enjoyed the game and feel like buying him coffee, you can donate at his BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. Thank you very much!
+
+And my self also VimalRaj
