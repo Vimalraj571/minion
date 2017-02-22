@@ -27,12 +27,13 @@ Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://gith
 ### Screenshot
 
 <p align="center">
-  <img src="https://github.com/VimalRaj571/minion2048.github.io/blob/master/meta/screens.JPG" alt="Screenshot"/>
+  <img src="https://github.com/VimalRaj571/minion2048.github.io/blob/master/meta/Minion.JPG" alt="Screenshot"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/VimalRaj571/minion2048.github.io/blob/master/meta/Minion.JPG" alt="Screenshot"/>
+  <img src="https://github.com/VimalRaj571/minion2048.github.io/blob/master/meta/screens.JPG" alt="Screenshot"/>
 </p>
+
 :smile:
 
 ## Contributing
