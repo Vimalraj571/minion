@@ -366,7 +366,7 @@ hr {
     background-size: 125%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
-	  background-image:url(dead-mini.png);
+	  background-image:url(Dead-mini.png);
     background-size: 100%;}
 
   .tile.tile-64 .tile-inner {
