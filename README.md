@@ -1,5 +1,5 @@
 #Code
-Source Code BY gabrielecirulli/2048 (Thanks DUDE)!
+Source Code BY gabrielecirulli/2048
 
 Through That created My version
 
